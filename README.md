@@ -31,6 +31,4 @@
     <img align="center" alt="kali linux" src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=fff">
     <img align="center" alt="debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=fff">
     
-    
-    https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff
 </div>
