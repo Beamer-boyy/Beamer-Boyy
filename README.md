@@ -1,5 +1,5 @@
 
-### Olá sou o Luís, 
+### Olá sou o Luís
 
 
 
@@ -16,17 +16,16 @@
     <img align="center" alt= "c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img align="center" alt= "c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" alt="bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff">
     <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff">
     <img align="center" alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"> 
     <img align="center" alt="AWS" src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white">
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff">
 
-
 </div>
 
 ### 🐧 OS
+
 <div>
     <img align="center" alt= "windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
     <img align="center" alt= "linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -35,8 +34,6 @@
     <img align="center" alt="debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=fff">
     
 </div>
-
-
 
 ###📌 Áreas de Interesse
 - 💻 Desenvolvimento Full Stack e Arquitetura de Sistemas
