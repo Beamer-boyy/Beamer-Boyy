@@ -35,8 +35,11 @@
     
 </div>
 
-###📌 Áreas de Interesse
+### 📌 Áreas de Interesse
+<div> 
 - 💻 Desenvolvimento Full Stack e Arquitetura de Sistemas
 - 🔐 Cibersegurança (Pentest, Red Team, OSINT)
 - 📡 Redes de Computadores e Protocolos
+</div>
+
 
