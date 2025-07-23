@@ -1,4 +1,4 @@
-### Olá, sou o Luís Santos  😎
+### Olá, sou o Luís Santos  
 
 
 ![Beamer boy GitHub stats](https://github-readme-stats.vercel.app/api?username=Beamer-Boyy&show_icons=true&theme=radical)
@@ -14,9 +14,12 @@
     <img align="center" alt= "c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img align="center" alt= "c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img align="center" alt="python" src="https://img.shields.io/badge/Gnubash-4EAA25?style=for-the-badge&logo=python&logoColor=white">
+    <img align="center" alt="bash" src="https://img.shields.io/badge/Gnubash-4EAA25?style=for-the-badge&logo=python&logoColor=white">
+    <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff">
+    <img align="center" alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"> 
+    <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff">
 
-    <img align="center" alt= "angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 
 </div>
 
@@ -24,4 +27,10 @@
 <div>
     <img align="center" alt= "windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
     <img align="center" alt= "linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img align="center" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+    <img align="center" alt="kali linux" src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=fff">
+    <img align="center" alt="debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=fff">
+    
+    
+    https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff
 </div>
